@@ -24,3 +24,4 @@ dash==2.17.1
 fear-and-greed==0.4
 prettytable
 ollama
+yfinance==0.2.25
